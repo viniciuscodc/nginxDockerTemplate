@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c601c7e-3227-45a5-9769-b64031934551": {
+      "ProjectGuid": "6c601c7e-3227-45a5-9769-b64031934551",
+      "DisplayName": "NgnixTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

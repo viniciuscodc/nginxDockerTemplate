@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yPmOkzJM5hfvn90RT38hcPu1m3396Wfc+puZImUFiWk=",
+  "Source": "NgnixTest",
+  "BasePath": "_content/NgnixTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
